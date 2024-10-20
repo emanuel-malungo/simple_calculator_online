@@ -67,8 +67,13 @@ input:focus{
 }
 
 .content_calculator {
-    width: 240px;
+    width: 250px;
     height: auto;
+    border: 1px solid #343841;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #343841;
+    box-shadow: 0px 0px 9px 5px #272727c5;
 }
 
 .content_calculator header {
